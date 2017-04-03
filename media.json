@@ -1,0 +1,51 @@
+{
+  "path": "path to a file / url",
+  "file": "myFile.jpg",
+  "type": "image/jpg",
+  "details": {
+    "width": 1024,
+    "height": 1024,
+    "thumbnail": {
+      "file": "myThumb.jpg",
+      "width": 128,
+      "height": 128,
+      "type": "image/jpg",
+      "source": "path to a file / url"
+    }
+  },
+  "meta": {
+    "email": {
+      "from": "",
+      "to": "",
+      "firstname": "",
+      "lastname": "",
+      "subject": "",
+      "text": "",
+      "html": "",
+      "template": "",
+      "attachments": [{
+        "name": "",
+        "content": ""
+      }],
+      "vars": ""
+    },
+    "title": "",
+    "description": "",
+    "message": "...",
+    "source": "",
+    "destination": "",
+    "user": "",
+    "password": "",
+    "hostname": "",
+    "target": "",
+    "privacyStatus": "",
+    "uploadDirectoryPath": "",
+    "uploadDirectoryID": "",
+    "printer": "",
+    "format": "",
+    "copies": "",
+    "options": "",
+    "bucket": "",
+    "token": ""
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "external": {
+    "altruist": {
+      "host" : "192.168.1.6",
+      "port" : "6666"
+    },
+    "spacebro": {
+      "host" : "192.168.1.6",
+      "port" : "8888",
+      "channel": "lachaine",
+      "client" : "nomdelapp",
+      "inputMessage": "new-media",
+      "outputMessage": "new-media-processed"
+    }
+  },
+  "app": {
+    "server": {
+      "host" : "myip",
+      "port" : "3333"
+    },
+    "timeout": {
+      "lookbook": 5,
+      "popup": 4
+    },
+    "folders": {
+      "kc-downloader": "path-to/data",
+      "lookbook": "path-to/lookbook"
+    },
+    "flags": {
+      "stabalize": true,
+      "dev-mode": true
+    },
+    "variables": {
+      "max-image-number": 64
+    },
+    "meta": {
+      "title": "",
+      "description": "",
+      "message": "...",
+      "source": ""
+    }
+  }
+}
