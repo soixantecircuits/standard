@@ -1,6 +1,12 @@
-# Welcome to our repository for schema standards 
+# Standard at Soixante circuits
 
-if you wish to create a new app these are the standards you should follow:
+Welcome to our repository for standard.
+If you wish to create a new app at Soixante circuits these are the standard you should follow:
 
-1. setting.json (standard format for your app setting's file)
-1. media.json  (standard format for the medias in your app)
+1. Commit style: commit.md
+  _Commiting is made for oter_
+1. setting.json 
+  _Settings are made to be easy_
+1. media.json
+  _A good media is a well defined media_
+
