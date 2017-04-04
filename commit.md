@@ -1,12 +1,16 @@
-# Commiting is caring
+# Commit style
+
+_Committing is caring_
 
 A well written commit helps you to think about what you have done and how you want other to read it.
 It is like a journal, a hourly log. It needs to be clear, readable and made for other.
-If you care about your team members, you should write clear commit.
+If you care about your team members, you should write clear commit. Please use english.
 
 ## Do
 
 - Start with an emoji 
+- Use English in your sentence
+- Start with a lowercase
 - Continue with an action verb
 - Use the Present form
 - Imply an issue, or ticket number, if one exist (it should)
