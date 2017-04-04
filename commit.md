@@ -36,3 +36,30 @@ git commit -am "added a package"
 git commit -am "update gitignore"
 git commit -am "change setting"
 ```
+
+## Emoji references
+
+### Priority emoji
+📚 :books: when adding docs
+✍️ :writing_hand: when updating a doc
+💎 :gem: when adding a feature
+🎨 :art: when styling the application, colors, shape, position
+🖼 :framed_picture: when adding assets, like icons, images, etc.
+📦 :package: when adding a dependency
+🚀 :rocket: when improving performance
+🐛 :bug: when fixing a bug
+🔥 :fire: when removing code or files 
+🚧️️ :construction: when commiting a WIP 
+🚱 :non-potable_water: when plugging memory leaks
+
+### Secondary emoji
+✅ :white_check_mark: when adding a test
+🔒 :lock: when dealing with security
+⬆️ :arrow_up: when upgrading dependencies
+⬇️ :arrow_down: when downgrading dependencies
+👕 :shirt: when removing linter warnings
+
+### Least emoji
+🐧 :penguin: when fixing something on Linux
+🍎 :apple: when fixing something on macOS
+🏁 :checkered_flag: when fixing something on windows
