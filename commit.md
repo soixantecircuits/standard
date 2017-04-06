@@ -55,6 +55,8 @@ git commit -am "change setting"
 🔥 :fire: when removing code or files 
 🚧️️ :construction: when commiting a WIP 
 🚱 :non-potable_water: when plugging memory leaks
+🔈  :speaker: when adding logging
+🔇  :mute: when reducing logging
 
 ### Secondary emoji
 ✅ :white_check_mark: when adding a test
