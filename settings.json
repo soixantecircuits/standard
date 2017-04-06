@@ -1,7 +1,7 @@
 {
   "server": {
-      "host" : "myip",
-      "port" : "3333"
+    "host" : "my-ip",
+    "port" : 3333
   },
   "timeout": {
     "lookbook": 5,
@@ -18,24 +18,26 @@
   "customKey": {
     "maxImageNumber": 64
   },
-  "meta": {
-      "title": "",
-      "description": "",
-      "message": "...",
-      "source": ""
+  "media": {
+    "meta": {
+      "title": "Some title",
+      "description": "Some description",
+      "message": "Some message",
+      "source": "http://some-source.url/"
+    }
   },
   "service": {
     "altruist": {
-      "host" : "192.168.1.6",
-      "port" : "6666"
+      "host" : "altruist-ip",
+      "port" : 6060
     },
     "spacebro": {
-      "host" : "192.168.1.6",
-      "port" : "8888",
-      "channel": "lachaine",
-      "client" : "nomdelapp",
-      "inputMessage": "new-media",
-      "outputMessage": "new-media-processed"
+      "host" : "spacebro-ip",
+      "port" : 8888,
+      "channel": "my-channel",
+      "client" : "my-app",
+      "inputMessage": "my-input-msg",
+      "outputMessage": "my-output-msg"
     }
   }
 }
