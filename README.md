@@ -4,7 +4,7 @@ Welcome to our repository for standard.
 If you wish to create a new app at Soixante circuits these are the standard you should follow:
 
 1. Commit style: commit.md
-  _Commiting is made for oter_
+  _Commit messages are written for other contributors_
 1. setting.json 
   _Settings are made to be easy_
 1. media.json
