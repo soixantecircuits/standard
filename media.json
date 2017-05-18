@@ -1,16 +1,26 @@
 {
-  "path": "path to a file / url",
-  "file": "myFile.jpg",
+  "path": "/path/to/file.jpg",
+  "url": "http://www.url.to/file.jpg",
+  "file": "file.jpg",
   "type": "image/jpg",
   "details": {
     "width": 1024,
     "height": 1024,
     "thumbnail": {
-      "file": "myThumb.jpg",
+      "file": "thumb.jpg",
       "width": 128,
       "height": 128,
       "type": "image/jpg",
-      "source": "path to a file / url"
+      "path": "/path/to/thumb.jpg",
+      "url": "http://www.url.to/thumb.jpg"
+    },
+    "thumbnail_64": {
+      "file": "thumb64.jpg",
+      "width": 64,
+      "height": 64,
+      "type": "image/jpg",
+      "path": "/path/to/thumb64.jpg",
+      "url": "http://www.url.to/thumb64.jpg"
     }
   },
   "meta": {

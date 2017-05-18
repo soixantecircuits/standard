@@ -8,7 +8,7 @@ If you care about your team members, you should write clear commit. Please use e
 
 ## Do
 
-- Start with an emoji 
+- Start with an emoji
 - Use English in your sentence
 - Start with a lowercase
 - Continue with an action verb
@@ -44,28 +44,31 @@ git commit -am "change setting"
 ## Emoji references
 
 ### Priority emoji
-📚 :books: when adding docs
-✍️ :writing_hand: when updating a doc
-💎 :gem: when adding a feature
-🎨 :art: when styling the application, colors, shape, position
-🖼 :framed_picture: when adding assets, like icons, images, etc.
-📦 :package: when adding a dependency
-🚀 :rocket: when improving performance
-🐛 :bug: when fixing a bug
-🔥 :fire: when removing code or files 
-🚧️️ :construction: when commiting a WIP 
-🚱 :non-potable_water: when plugging memory leaks
-🔈  :speaker: when adding logging
-🔇  :mute: when reducing logging
+
+* 📚 `:books:` when adding docs
+* ✍️ `:writing_hand:` when updating a doc
+* 💎 `:gem:` when adding a feature
+* 🎨 `:art:` when styling the application, colors, shape, position
+* 🖼 `:framed_picture:` when adding assets, like icons, images, etc.
+* 📦 `:package:` when adding a dependency
+* 🚀 `:rocket:` when improving performance
+* 🐛 `:bug:` when fixing a bug
+* 🔥 `:fire:` when removing code or files
+* 🚧️️ `:construction:` when commiting a WIP
+* 🚱 `:non-potable_water:` when plugging memory leaks
+* 🔈 `:speaker:` when adding logging
+* 🔇 `:mute:` when reducing logging
 
 ### Secondary emoji
-✅ :white_check_mark: when adding a test
-🔒 :lock: when dealing with security
-⬆️ :arrow_up: when upgrading dependencies
-⬇️ :arrow_down: when downgrading dependencies
-👕 :shirt: when removing linter warnings
+
+* ✅ `:white_check_mark:` when adding a test
+* 🔒 `:lock:` when dealing with security
+* ⬆️ `:arrow_up:` when upgrading dependencies
+* ⬇️ `:arrow_down:` when downgrading dependencies
+* 👕 `:shirt:` when removing linter warnings
 
 ### Least emoji
-🐧 :penguin: when fixing something on Linux
-🍎 :apple: when fixing something on macOS
-🏁 :checkered_flag: when fixing something on windows
+
+* 🐧 `:penguin:` when fixing something on Linux
+* 🍎 `:apple:` when fixing something on macOS
+* 🏁 `:checkered_flag:` when fixing something on windows
