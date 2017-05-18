@@ -1,4 +1,4 @@
-# Development methodoly at Soixante circuits
+# Development methodology at Soixante circuits
 
 In the following document we will describe the type of development process we are aiming at when we work together.
 
