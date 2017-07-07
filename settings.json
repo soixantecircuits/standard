@@ -34,10 +34,29 @@
     "spacebro": {
       "host" : "spacebro-ip",
       "port" : 8888,
-      "channel": "my-channel",
-      "client" : "my-app",
-      "inputMessage": "my-input-msg",
-      "outputMessage": "my-output-msg"
+      "channelName": "my-channel",
+      "client" : {
+        "name": "my-app",
+        "description": "my-app is a super tool",
+				"in": {
+					"inMedia": {
+						"eventName": "inMedia",
+						"description": "Input media to process",
+						"type": "all"
+					}
+				},
+				"out": {
+					"outMedia": {
+						"eventName": "outMedia",
+						"description": "Output media to process",
+						"type": "all"
+					}
+        }
+      },
+      "connection": [
+        "my-app/outMedia => other-app/inMedia",
+        "my-app/mycommand => other-app/command"
+      ]
     }
   }
 }
