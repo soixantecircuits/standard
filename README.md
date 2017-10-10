@@ -23,7 +23,7 @@ If you wish to create a new app at Soixante circuits these are the standard you 
   [https://github.com/soixantecircuits/standard/blob/master/versionning.md](https://github.com/soixantecircuits/standard/blob/master/versionning.md)
 
 1. Commit style: [commit.md](https://github.com/soixantecircuits/standard/blob/master/commit.md) <br>
-  _Commiting is made for oter_ <br>
+  _Commiting is made for other_ <br>
   [https://github.com/soixantecircuits/standard/blob/master/commit.md](https://github.com/soixantecircuits/standard/blob/master/commit.md)
 
 1. Settings: [setting.json](https://github.com/soixantecircuits/standard/blob/master/settings.json) <br>
@@ -34,6 +34,6 @@ If you wish to create a new app at Soixante circuits these are the standard you 
   _A good media is a well defined media_ <br>
   [https://github.com/soixantecircuits/standard/blob/master/media.json](https://github.com/soixantecircuits/standard/blob/master/media.json)
 
-1. Commit style: [legal.md](https://github.com/soixantecircuits/standard/blob/master/legal.md) <br>
-  _Commiting is made for oter_ <br>
+1. Legal stuff: [legal.md](https://github.com/soixantecircuits/standard/blob/master/legal.md) <br>
+  _Because you need some legal stuff_ <br>
   [https://github.com/soixantecircuits/standard/blob/master/legal.md](https://github.com/soixantecircuits/standard/blob/master/legal.md)
