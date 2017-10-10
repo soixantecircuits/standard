@@ -1,4 +1,4 @@
-# Soixante Circuits (SAS)
+# Soixante circuits (SAS)
 
 ![anim](https://raw.githubusercontent.com/soixantecircuits/standard/master/assets/videos/anim__logo__2015.gif)
 
