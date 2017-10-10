@@ -1,13 +1,23 @@
 # Soixante Circuits (SAS)
 
+![anim](https://raw.githubusercontent.com/soixantecircuits/standard/master/assets/videos/anim__logo__2015.gif)
+
+
 31 rue Louis Blanc
 75010 Paris
 FRANCE
 
-## Logo
+## Images
 
-![](logo_high)
+### Avatars
 
+<img src="https://raw.githubusercontent.com/soixantecircuits/standard/master/assets/images/avatar/logo_avatar_512.png" width="128">
+
+
+
+### Logo black
+
+![https://raw.githubusercontent.com/soixantecircuits/standard/master/assets/images/png/logo_black_baseline/256.png](https://raw.githubusercontent.com/soixantecircuits/standard/master/assets/images/png/logo_black_baseline/256.png)
 
 
 ## Sites et réseaux sociaux
