@@ -37,3 +37,7 @@ If you wish to create a new app at Soixante circuits these are the standard you 
 1. Legal stuff: [legal.md](https://github.com/soixantecircuits/standard/blob/master/legal.md) <br>
   _Because you need some legal stuff_ <br>
   [https://github.com/soixantecircuits/standard/blob/master/legal.md](https://github.com/soixantecircuits/standard/blob/master/legal.md)
+  
+1. Descriptions: [description.md](https://github.com/soixantecircuits/standard/blob/master/description.md) <br>
+  _For the newspaper_ <br>
+  [https://github.com/soixantecircuits/standard/blob/master/description.md](https://github.com/soixantecircuits/standard/blob/master/description.md)
