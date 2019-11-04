@@ -1,5 +1,7 @@
 # Keep Control REST API
 
+**DEPRECATED**
+
 Keep Control uses Wordpress REST API coupled with Custom Post Types, so the data on wordpress is easily changed and also accessible for other applications to use.
 Since Keep Control is Wordpress based, the base REST API is used. You can find the documentation [here](https://developer.wordpress.org/rest-api/).
 As the custom post types are... customized, their json object may vary. But here's a sample of Keep Control's response when sending a request to a custom post type endpoint:
