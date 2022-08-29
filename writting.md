@@ -14,4 +14,3 @@ If needed, you can use this common form for shorting the names:
 
 - sc
 - soixante
-- les garçons
