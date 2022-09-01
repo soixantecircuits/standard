@@ -38,6 +38,8 @@ FRANCE
 | Code NAF | 6201Z - Programmation informatique |
 | TVA intracommunautaire (EORI) | FR91503179152 |
 | Forme juridique | Société par actions simplifiée (SAS) |
+| Convention collective | Fédération SYNTEC |
+| Code IDCC | 1486 |
 | Naissance | 1 mars 2008 |
 | Capital social | 9K€ |
 | Principaux dirigeants | Directeur général : M. Emmanuel Geoffray <br/> Président : M. Gabriel Delattre |
